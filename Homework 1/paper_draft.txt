@@ -1,0 +1,7 @@
+# Working with Git Guidelines: 
+
+1. Create branches for the features to be implemented
+2. Make commits early and often, push your changes to your branch 
+3. Make sure there are no errors in your files
+4. Make readable commits. "Commit messages have to be clear and concise" 
+5. Merge your changes	 
