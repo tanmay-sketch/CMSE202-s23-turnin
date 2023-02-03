@@ -6,6 +6,4 @@ Name: Tanmay Grandhisiri
 Section: 003
 
 ## Homeworks Completed
-[X] Homework 1
-[ ] Homework 2
-[ ] Homework 3
+
